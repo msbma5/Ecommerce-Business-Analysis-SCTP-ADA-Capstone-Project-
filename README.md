@@ -1,1 +1,45 @@
-# Ecommerce-Business-Analysis-SCTP-ADA-Capstone-Project-
+# Ecommerce Business Analysis
+## Project Goal
+The goal of this project is to create a customer base, enhance customer experience and recommend relevant products.
+## Project Scope
+The project’s objective is to carry out the following tasks and present data findings and recommendations:
+1. Data Preprocessing
+  - Data Understanding
+  - Data Cleaning
+  - Data Transformation
+3. Exploratory Analysis
+  - Univariate Analysis 
+  - Multivariate Analysis 
+  - Time Series Analysis
+3. Data Visualization and Insights
+  - Trend Analysis
+  - Product Analysis
+  - Customer Analysis
+  - RFM Analysis
+4. Product Recommendation System using Collaborative Filtering and Content-based Filtering
+
+## Dataset Overview
+The dataset is an online ecommerce platform dataset which consists of the customer information and purchase history. It contains 50,000 transaction records from 15/08/2019 and 01/01/2023  . The data has 17 attributes:
+- customer_id :	Unique ID of the customers.
+- first_name : First name of the customer.
+- last_name : Last name of the customer.
+- gender : Gender of the customer.
+- age : Age of the customer.
+- country : The country names the customer is from.
+- income : Income of the customer
+- order_id	Unique order id of the order placed.
+- product_name : Product name.
+- description : The description about the product.
+- price	: Price of the product.
+- tax	: Applicable tax on the product.
+- discount : Price reduction of the product.
+- order_date : The date on which order was placed.
+- quantity : Quantity of the product being ordered.
+- shipping_cost : The cost of shipping.
+- shipping_date : The date of shipment.
+
+
+
+[View Data Preprocessing and EDA]()<br>
+[View Product Recommendation system]()<br>
+[View E-commerce Dashboard]()<br>
