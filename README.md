@@ -38,8 +38,16 @@ The dataset is an online ecommerce platform dataset which consists of the custom
 - shipping_cost : The cost of shipping.
 - shipping_date : The date of shipment.
 
+## Dashboard Creation on PowerBI
+
+1. Customer Dashboard
+   ![](Sales.png)
+2. Revenue Performance Dashboard 
+   ![](customers.png)
+3. RFM Dashboard
+   ![](insight.png)
 
 
-[View Data Preprocessing and EDA]()<br>
-[View Product Recommendation system]()<br>
-[View E-commerce Dashboard]()<br>
+[View Data Preprocessing and EDA](https://github.com/msbma5/Ecommerce-Business-Analysis-SCTP-ADA-Capstone-Project-/blob/5538808d84ab2defe930455e9bf20d5b172942d5/Data%20Preprocessing%20and%20EDA.ipynb)<br>
+[View Product Recommendation system](https://github.com/msbma5/Ecommerce-Business-Analysis-SCTP-ADA-Capstone-Project-/blob/5538808d84ab2defe930455e9bf20d5b172942d5/Product%20Recommendation%20system.ipynb)<br>
+
